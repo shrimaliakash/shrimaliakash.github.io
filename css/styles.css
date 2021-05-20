@@ -10196,6 +10196,7 @@ header.masthead .masthead-heading {
   max-width: 25rem;
   margin-left: auto;
   margin-right: auto;
+  background: aquamarine;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
