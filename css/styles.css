@@ -474,9 +474,10 @@ mark,
 }
 
 .img-fluid {
-  width: 100%;
-  height: 100%;
+  width: 70%;
+  height: 70%;
   object-fit: contain;
+  margin: 10px;
 }
 
 .img-thumbnail {
@@ -10197,10 +10198,11 @@ header.masthead .masthead-heading {
   margin-left: auto;
   margin-right: auto;
   background: aquamarine;
+  width: 300px;
+  height: 270px;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
-  display: block;
   margin: 0 auto;
   height: 150px;
 }
@@ -10223,7 +10225,6 @@ header.masthead .masthead-heading {
   opacity: 1;
 }
 #portfolio .portfolio-item .portfolio-caption {
-  padding: 1.5rem;
   text-align: center;
   background-color: #fff;
 }
