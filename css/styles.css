@@ -10530,3 +10530,10 @@ section#contact form#contactForm :-ms-input-placeholder {
     height: 300px;
     width: 300px;
 }
+
+.img-fluid-game {
+  width: 90%;
+  height: 62%;
+  object-fit: contain;
+  margin: 10px;
+}
